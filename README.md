@@ -1,6 +1,6 @@
 # NavigationDrawerDemo
 
-![Demo](./demo/demo.gif)
+<img src="./demo/demo.gif" width="300">
 
 Cette application Android est une démonstration de l'utilisation d'un **Navigation Drawer** (tiroir de navigation) avec le composant **Jetpack Navigation**.
 
